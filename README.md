@@ -2,4 +2,4 @@
 
 
 ## Demo 
-![Demo](Demo.gif)
+![Demo](demo.gif)
