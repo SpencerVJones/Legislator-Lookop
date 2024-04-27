@@ -1,4 +1,5 @@
 # Legislator-Lookop
+iOS application that fetches data from the ProPublica Congress API to populate the directory with information about current congressional members. Users can browse the directory, filter members by political party, and view detailed profiles for individual members.
 
 ## Features
 - Displays a list of congressional members categorized by political party (Democrat, Republican, Independent).
@@ -20,7 +21,7 @@ Upon launching the application, users are presented with a list of congressional
 - **Xcode**: Integrated development environment for iOS app development.
 - **JSONSerialization**: Parsing JSON data retrieved from the ProPublica Congress API.
 - **URLSession**: Making network requests to fetch data from the API.
-- 
+  
 ## Contributing
 Contributions are welcome! 
 
