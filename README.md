@@ -1,4 +1,9 @@
 # Legislator-Lookop
+ <div align="left">
+	
+  ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Legislator-Lookop)
+</div>
+
 iOS application that fetches data from the ProPublica Congress API to populate the directory with information about current congressional members. Users can browse the directory, filter members by political party, and view detailed profiles for individual members.
 
 ## Features
